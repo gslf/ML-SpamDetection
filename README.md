@@ -4,7 +4,7 @@ An effective tool for SPAM classification that use Nive Bayes classification, a 
 
 
 # Instructions #
-- Read the agreement and download "trec07" dataset from here: https://plg.uwaterloo.ca/cgi-bin/cgiwrap/gvcormac/foo07 
+- Read the agreement and download "trec07" dataset from here: https://plg.uwaterloo.ca/~gvcormac/treccorpus07/ 
 - Edit paths in vars.py according the inline instruction
 - Create a python virtual enviroment:
     ```
