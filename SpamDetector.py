@@ -177,7 +177,7 @@ class SpamDetector:
 
         Parameters
         ----------
-        weights_path : str, required
+        mail_path : str, required
             The path of the mail message
 
         Returns
